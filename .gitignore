@@ -1,0 +1,8 @@
+# Ignore all database files and all node modules
+*.log
+*.csv
+
+data
+node_modules
+
+.DS_Store
